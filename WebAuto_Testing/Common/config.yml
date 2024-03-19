@@ -1,0 +1,15 @@
+database:
+  host: "192.168.102.123"
+  user: "root"
+  password: "root"
+  dbname: "zentao"
+
+api:
+  base_url: "http://192.168.102.123/zentaopms/www/api.php/v1"
+  auth:
+    account: "root"
+    password: "Root1234"
+
+login:
+  account: "jenifer"
+  password: "admin123456"
